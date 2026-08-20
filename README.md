@@ -1,0 +1,3 @@
+- (code+dataset) has the code and the dataset used
+- dataset link : https://www.kaggle.com/datasets/hemil26/crime-in-los-angeles/data
+- (LA Crime Analytics Dashboard) has the discovered insights and recommendations
